@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pawan
 - 👀 I’m interested in Energy, Finance, ...
 - 🌱 I’m currently learning AI in Energy
-- 💞️ I’m looking to collaborate on modeling using AI
+- 💞️ I’m looking to collaborate on energy + AI
 - 📫 How to reach me (https://www.linkedin.com/in/pawan-singh-exe/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like plane and motorcycles
